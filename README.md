@@ -16,7 +16,7 @@ Open index.html in your browser to view the component.
 
 🎨 Preview
 
-Live Demo (https://app.netlify.com/sites/gorgeous-unicorn-8db37d/overview)
+Live Demo (https://gorgeous-unicorn-8db37d.netlify.app/)
 
 📬 Contact
 
